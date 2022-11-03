@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\bin\Debug\Procedure and Function.exe.config
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\bin\Debug\Procedure and Function.exe
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\bin\Debug\Procedure and Function.pdb
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\bin\Debug\Procedure and Function.xml
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\obj\Debug\Procedure and Function.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\obj\Debug\Procedure_and_Function.Form1.resources
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\obj\Debug\Procedure_and_Function.Resources.resources
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\obj\Debug\Procedure and Function.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\obj\Debug\Procedure and Function.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\obj\Debug\Procedure and Function.exe
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\obj\Debug\Procedure and Function.xml
+G:\52020007\Pemg Visual\Modul 6\ProcedureFuntion\Procedure and Function\obj\Debug\Procedure and Function.pdb
